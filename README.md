@@ -32,5 +32,8 @@ if out_of_guesses:
 else:
     print("You won Biriyani")
     
-    
+4) For loop
+foods = ['chicken biriyani', 'sandwich', 'pulao']
+for ch in range(len(foods)):
+    print(foods[ch])
     
