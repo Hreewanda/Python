@@ -1,5 +1,7 @@
 # Python
+
 Python Assignments
+
 1) i = 1
    while i <= 6:
        print(i)
@@ -13,6 +15,7 @@ Python Assignments
       guess = input("Enter Guess: ")
 
   print("You won Biriyani!")
+  
   
 3) improved guessing game:
 secret_word = "Biriyani"
@@ -32,8 +35,11 @@ if out_of_guesses:
 else:
     print("You won Biriyani")
     
+    
 4) For loop
 foods = ['chicken biriyani', 'sandwich', 'pulao']
 for ch in range(len(foods)):
     print(foods[ch])
+    
+  
     
